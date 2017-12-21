@@ -3,7 +3,6 @@ env:
     - CC_TEST_REPORTER_ID=b0d803bc8521a63c141a7fae63d6cb620301f635383c121d6c90bed4f78f5ab6
 
 language: python
-
 python:
   - "2.7"
   - "3.5"
